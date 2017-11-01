@@ -1,0 +1,25 @@
+type project
+title
+    YAPSIT
+owners
+    embix
+authors 
+    embix
+projectUrl
+    https://github.com/embix/YAPSIT
+iconUrl
+    https://raw.githubusercontent.com/embix/YAPSIT/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/embix/YAPSIT/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    unstable
+summary
+    yet another ProjectScaffold initialization test
+description
+    do not use this, it's just to have an expanded project scaffold to diff against
+
+
